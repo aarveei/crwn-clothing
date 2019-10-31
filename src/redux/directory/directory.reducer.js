@@ -20,14 +20,14 @@ const INITIAL_STATE = {
         },
         {
             title: 'womens',
-            imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
+            imageUrl: 'https://images.unsplash.com/photo-1484399172022-72a90b12e3c1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60',
             size: 'large',
             id: 4,
             linkUrl: 'shop/womens'
         },
         {
             title: 'mens',
-            imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
+            imageUrl: 'https://images.pexels.com/photos/2866082/pexels-photo-2866082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
             size: 'large',
             id: 5,
             linkUrl: 'shop/mens'
